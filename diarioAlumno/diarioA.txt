@@ -1,1 +1,3 @@
 Aquí viene tu diario
+
+Día 1: Empiezo a conocer git
