@@ -1,1 +1,2 @@
 Aquí viene tu diario
+Día 1 "No sabía ni qué era Git"
