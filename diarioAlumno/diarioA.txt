@@ -1,1 +1,3 @@
 Aquí viene tu diario
+
+Día 3: Comienzo a ver las ramas en Git
