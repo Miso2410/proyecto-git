@@ -1,3 +1,5 @@
 Aquí viene tu diario
 
 Día 1: Empiezo a conocer git
+
+Día 2: Todo es un lío en esto de Git 
